@@ -33,7 +33,7 @@ Por el momento, siempre va a ser así, incluso cuando existan conjunciones o dis
 
 Dicho esto, empecemos, directamente con la prácita 3. 
 
-- [Práctica 3, ejercicio 5](link al ejercicio)
+- [Práctica 3, ejercicio 5]()
 
 - [Práctica 3, ejercicio 8]()
 
@@ -57,10 +57,6 @@ Dicho esto, empecemos, directamente con la prácita 3.
 - [Práctica 7, ejercicio 3] ()
 
 - [Práctica 7, ejercicio 7] ()
-
-- 
-
-- Práctica 
 
 
 
