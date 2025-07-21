@@ -65,6 +65,7 @@ Si te gustó esto, una forma de agradecer es dándole a la :star:
 
 Si creés que le falta algo, o debería cambiar una cosa, no dudes en contactarme
 
+<div>
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
         <a style"margin-left: 10px;" target="_blank" href="dinotomauro@gmail.com">
-
+</div>
