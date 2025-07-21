@@ -16,7 +16,9 @@ Depende la pregunta, se continúa haciendo algo con el dato, o finaliza ese "hac
 ![Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop](https://github.com/MauroDino/Images/blob/main/Miro%20video.jpg?raw=true)
 
 ***Algo importantísimo es tener en claro cómo se usa Pascal, ya que es el lenguaje con el que se debe aplicar la lógica.***
-Imagen pascal  
+
+![Image de un diagrama que intenta explicar el uso del lenguaje Pascal](https://github.com/MauroDino/Images/blob/main/Pascal.jpg?raw=true)  
+
 Algunas preguntas que sirven para encarar el código:
 - *¿Qué va a hacer el programa principal?*
 - *¿Uso módulos que debe devuelver datos?*
