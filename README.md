@@ -33,7 +33,7 @@ Ahora, las imágenes tienen algo en común:
  
 Por el momento, siempre va a ser así, incluso cuando existan conjunciones o disyunciones.
 
-Dicho esto, empecemos, directamente con la prácita 3. 
+Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se empieza a complicar un poco más (y más). 
 
 - [Práctica 3, ejercicio 5]()
 
