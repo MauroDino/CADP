@@ -70,4 +70,4 @@ begin
     end;
     
     writeln ('La marca y modelo del auto más caro es: ', marcaMax, modeloMax);
-end.****
+end.
