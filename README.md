@@ -48,6 +48,7 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 
 ## Vale decir que esto es ajeno a la cátedra
 
+¿Necesitás los PDF de las prácticas? [Hacé click acá](https://github.com/MauroDino/CADP/tree/main/PDF%20Pr%C3%A1cticas)
 
 - [Práctica 3, ejercicio 5]()
 
