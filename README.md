@@ -1,7 +1,8 @@
 # CADP
 Conceptos de Algoritmos, Datos y Programas
 
-![Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop](https://github.com/MauroDino/Images/blob/main/Busco%20Algo.jpg?raw=true)
+
+<img src="https://github.com/MauroDino/Images/blob/main/Busco%20Algo.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="40" height="40">
 
 ¿Qué fácil, no? Aparentemente es así de simple este comienzo. Bueno, simple, sí, con el diario del lunes, después de haber cursado.
 Pero si hay algo que sucedió en este cuatrimestre, es que la ayuda entre compañeros nunca dejó de estar.
