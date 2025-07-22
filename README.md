@@ -26,7 +26,7 @@ Depende la pregunta, se continúa haciendo algo con el dato, o finaliza ese "hac
 
 Algunas preguntas que sirven para encarar el código:
 - *¿Qué va a hacer el programa principal?*
-- *¿Uso módulos que debe devuelver datos?*
+- *¿Uso módulos que deben devolver datos?*
 - *¿Tengo que usar un módulo sí o sí o puedo usar una función?*
 
 <img src="https://github.com/MauroDino/Images/blob/main/Read%20NUM.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="480" height="480">
@@ -45,8 +45,11 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 - Diagrama de la lógica a aplicar para resolver el problema
 - El código que propuse para realizar el ejercicio
 
-***Vale decir que esto es ajeno a la cátedra***
-
+<br>
+<br>
+##***Vale decir que esto es ajeno a la cátedra***
+<br>
+<br>
 
 - [Práctica 3, ejercicio 5]()
 
