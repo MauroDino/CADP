@@ -1,10 +1,12 @@
 # CADP
 Conceptos de Algoritmos, Datos y Programas
 
-
+<p align="center">
 <img src="https://github.com/MauroDino/Images/blob/main/Busco%20Algo.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="480" height="480">
+</p>
 
 ¿Qué fácil, no? Aparentemente es así de simple este comienzo. Bueno, simple, sí, con el diario del lunes, después de haber cursado.
+
 Pero si hay algo que sucedió en este cuatrimestre, es que la ayuda entre compañeros nunca dejó de estar.
 Y eso quiero hacer con este repositorio, intentar plasmar mi método de estudio para poder entender y aplicar los conceptos.
 
@@ -14,11 +16,13 @@ Fue así que entendí algo: se lee un dato, se hace algo con el dato, se pregunt
 
 Depende la pregunta, se continúa haciendo algo con el dato, o finaliza ese "hacer algo".
 
+<p align="center">
 <img src="https://github.com/MauroDino/Images/blob/main/Miro%20video.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="480" height="480">
+</p>
 
 ***Algo importantísimo es tener en claro cómo se usa Pascal, ya que es el lenguaje con el que se debe aplicar la lógica.***
 
-<img src="https://github.com/MauroDino/Images/blob/main/Pascal.jpg?raw=true" alt="Imagen de un diagrama que intenta explicar el uso del lenguaje Pascal" width="480" height="480">
+<img src="https://github.com/MauroDino/Images/blob/main/Pascal.jpg?raw=true" alt="Imagen de un diagrama que intenta explicar el uso del lenguaje Pascal" width="900" height="900">
 
 Algunas preguntas que sirven para encarar el código:
 - *¿Qué va a hacer el programa principal?*
@@ -35,6 +39,14 @@ Ahora, las imágenes tienen algo en común:
 Por el momento, siempre va a ser así, incluso cuando existan conjunciones o disyunciones.
 
 Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se empieza a complicar un poco más (y más). 
+
+¿Qué vas a encontrar?
+
+- Diagrama de la lógica a aplicar para resolver el problema
+- El código que propuse para realizar el ejercicio
+
+***Vale decir que esto es ajeno a la cátedra***
+
 
 - [Práctica 3, ejercicio 5]()
 
