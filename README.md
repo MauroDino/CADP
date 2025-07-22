@@ -45,11 +45,9 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 - Diagrama de la lógica a aplicar para resolver el problema
 - El código que propuse para realizar el ejercicio
 
-<br>
-<br>
-#Vale decir que esto es ajeno a la cátedra
-<br>
-<br>
+
+## Vale decir que esto es ajeno a la cátedra
+
 
 - [Práctica 3, ejercicio 5]()
 
