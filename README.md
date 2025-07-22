@@ -47,7 +47,7 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 
 <br>
 <br>
-## ***Vale decir que esto es ajeno a la cátedra***
+## *Vale decir que esto es ajeno a la cátedra*
 <br>
 <br>
 
