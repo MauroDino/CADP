@@ -61,26 +61,27 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 
 - [Práctica 3, ejercicio 8](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%203/Pr%C3%A1ctica%203%20-%20Ej8.md)
 
-- [Introducción a vectores. Solo imagen] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej0%20(introducci%C3%B3n).md)
+- [Introducción a vectores. Solo imagen](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej0%20(introducci%C3%B3n).md)
 
-- [Práctica 4 P1, ejercicio 7.Vector contador] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej7.md)
+- [Práctica 4 P1, ejercicio 7.Vector contador](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej7.md)
 
-- [Práctica 4 P1, ejercicio 12] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej12.md)
+- [Práctica 4 P1, ejercicio 12](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej12.md)
 
-- [Práctica 4 P1, ejercicio 14] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej14.md)
+- [Práctica 4 P1, ejercicio 14](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%201%20-%20Ej14.md)
 
-- [Imágenes introductorias para la parte 2] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%202%20-%20Ej0%20(introducci%C3%B3n).md)
+- [Imágenes introductorias para la parte 2](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%202%20-%20Ej0%20(introducci%C3%B3n).md)
   - *Agregar, eliminar, buscar, buscar y eliminar*
 
-- [Práctica 4 P2, ejercicio 3] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%202%20-%20Ej3.md)
+- [Práctica 4 P2, ejercicio 3](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%202%20-%20Ej3.md)
 
-- [Práctica 4 P2, ejercicio 5] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%202%20-%20Ej5.md)
+- [Práctica 4 P2, ejercicio 5](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20Parte%202%20-%20Ej5.md)
 
-- [Introducción a listas. Solo imagen] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Introducci%C3%B3n%20a%20Listas.md)
+- [Introducción a listas. Solo imagen](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Introducci%C3%B3n%20a%20Listas.md)
+    - *Agregar adelante, agregar atrás, eliminar una sola vez, insertar ordenado*
 
-- [Práctica 7, ejercicio 3] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej3.md)
+- [Práctica 7, ejercicio 3](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej3.md)
 
-- [Práctica 7, ejercicio 7] (https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej7.md)
+- [Práctica 7, ejercicio 7](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej7.md)
 
 
 Si te gustó esto, una forma de agradecer es dándole a la :star:
