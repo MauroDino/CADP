@@ -37,8 +37,10 @@ Algunas preguntas que sirven para encarar el código:
 - *¿Qué va a hacer el programa principal?*
 - *¿Uso módulos que deben devolver datos?*
 - *¿Tengo que usar un módulo sí o sí o puedo usar una función?*
-
-<img src="https://github.com/MauroDino/Images/blob/main/Read%20NUM.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="480" height="480">
+- 
+<p align="center">
+<img src="https://github.com/MauroDino/Images/blob/main/Read%20NUM.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="680" height="680">
+</p>
 
 Ahora, las imágenes tienen algo en común:
 
