@@ -51,6 +51,7 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 - Diagrama de la lógica a aplicar para resolver el problema
 - El código que propuse para realizar el ejercicio
 
+*La idea es que esto sea una ayuda para avanzar, y no un lugar para buscar la solución.*
 
 ## Vale decir que esto es ajeno a la cátedra
 
