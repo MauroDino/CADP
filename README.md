@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MauroDino/Images/blob/main/Empecemos.jpg?raw=true" alt="Empecemos por acá" width="2000" height="480">
+<img src="https://github.com/MauroDino/Images/blob/main/Empecemos.jpg?raw=true" alt="Empecemos por acá" width="2000" height="400">
 </p>
 
 # CADP
