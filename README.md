@@ -1,7 +1,9 @@
 *Proyecto en construcción*
 
 <p align="center">
+<a href="https://github.com/MauroDino/CADP">
 <img src="https://github.com/MauroDino/Images/blob/main/Empecemos.jpg?raw=true" alt="Empecemos por acá" width="2000" height="400">
+</a>
 </p>
 
 # CADP
@@ -37,7 +39,7 @@ Algunas preguntas que sirven para encarar el código:
 - *¿Qué va a hacer el programa principal?*
 - *¿Uso módulos que deben devolver datos?*
 - *¿Tengo que usar un módulo sí o sí o puedo usar una función?*
-- 
+
 <p align="center">
 <img src="https://github.com/MauroDino/Images/blob/main/Read%20NUM.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="680" height="680">
 </p>
@@ -51,10 +53,10 @@ Por el momento, siempre va a ser así, incluso cuando existan conjunciones o dis
 
 Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se empieza a complicar un poco más (y más). 
 
-¿Qué vas a encontrar?
+¿Qué vas a encontrar en este repositorio?
 
-- Diagrama de la lógica a aplicar para resolver el problema
-- El código que propuse para realizar el ejercicio
+- El diagrama de la lógica que me propuse aplicar para resolver el problema
+- El código que formulé para realizar el ejercicio
 
 *La idea es que esto sea una ayuda para avanzar, y no un lugar para buscar la solución. Por eso solo hay ejercicios puntuales*
 
