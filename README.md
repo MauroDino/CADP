@@ -18,7 +18,7 @@ Y eso quiero hacer con este repositorio, intentar plasmar el método de estudio 
 
 Para empezar, miré los videos que brinda la cátedra, y algo importante en esto fue tomar apuntes.
 También hice todos los ejercicios de las prácticas. Está bien, lo admito, casi todos, los adicionales no.
-Fue así que entendí algo: se tiene un dato (que se leyó por teclado, es el resultado de una operación o lo que sea), se hace algo con el dato, se pregunta algo que tiene solo 2 respuesta: sí o no.
+Fue así que entendí algo: se tiene un dato (que se leyó por teclado, es el resultado de una operación o lo que sea), se hace algo con ese dato, se realiza una pregunta, con respecto a este dato, que tiene solo 2 respuestas: sí o no.
 
 Depende la pregunta, se continúa haciendo algo con el dato, o finaliza ese "hacer algo".
 
