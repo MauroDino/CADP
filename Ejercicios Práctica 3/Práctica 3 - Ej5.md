@@ -1,4 +1,6 @@
-![Diagrama ejercicio 5, práctica 3](URL_imagen)
+<p align="center">
+<img src="https://github.com/MauroDino/Images/blob/main/Pr%C3%A1ctica%203/P3%20Ej5.jpg?raw=true" alt="Diagrama ejercicio 5, práctica 3" width="480" height="480">
+</p>
 
 ```
 {
