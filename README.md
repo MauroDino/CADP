@@ -30,6 +30,7 @@ Depende la pregunta o la respuesta, se continúa procesando el dato o finaliza e
 
 ***Algo importantísimo es tener en claro cómo se usa Pascal, ya que es el lenguaje con el que se debe aplicar la lógica.***
 
+Podés hacer click en la imagen para agrandarla y ver mejor su contenido. El camino empieza abajo a la derecha.
 <img src="https://github.com/MauroDino/Images/blob/main/Pascal.jpg?raw=true" alt="Imagen de un diagrama que intenta explicar el uso del lenguaje Pascal" width="900" height="900">
 
 Algunas preguntas que sirven para encarar el código:
