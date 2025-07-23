@@ -13,11 +13,11 @@ Conceptos de Algoritmos, Datos y Programas
 
 ¿Qué fácil, no? Aparentemente es así de simple este comienzo. Bueno, simple, sí, con el diario del lunes, después de haber cursado.
 
-Pero si hay algo que sucedió en este cuatrimestre, es que la ayuda entre compañeros nunca dejó de estar.
-Y eso quiero hacer con este repositorio, intentar plasmar mi método de estudio para poder entender y aplicar los conceptos.
+Hay algo que sucedió en este cuatrimestre -el primero del 2025-, es que la ayuda entre compañeros nunca dejó de estar.
+Y eso quiero hacer con este repositorio, intentar plasmar el método de estudio que utilicé para poder entender y aplicar los conceptos, para extender la ayuda.
 
 Para empezar, miré los videos que brinda la cátedra, y algo importante en esto fue tomar apuntes.
-También hice todos los ejercicios de las prácticas. Ok, casi todos, los adicionales no.
+También hice todos los ejercicios de las prácticas. Está bien, lo admito, casi todos, los adicionales no.
 Fue así que entendí algo: se lee un dato, se hace algo con el dato, se pregunta algo que tiene solo 2 respuesta: sí o no.
 
 Depende la pregunta, se continúa haciendo algo con el dato, o finaliza ese "hacer algo".
