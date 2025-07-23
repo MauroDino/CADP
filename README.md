@@ -20,7 +20,9 @@ Para empezar, miré los videos que brinda la cátedra, y algo importante en esto
 También hice todos los ejercicios de las prácticas. Está bien, lo admito, casi todos, los adicionales no.
 Fue así que entendí algo: se tiene un dato (que se leyó por teclado, es el resultado de una operación o lo que sea), se hace algo con ese dato, se realiza una pregunta, con respecto a este dato, que tiene solo 2 respuestas: sí o no.
 
-Depende la pregunta, se continúa haciendo algo con el dato, o finaliza ese "hacer algo".
+Depende la pregunta, se continúa procesando el dato, o finaliza ese "hacer algo".
+
+*¿Cuántes veces escribí dato y algo? El coso del cosito del coso. En fin, no nos distraigamos.*
 
 <p align="center">
 <img src="https://github.com/MauroDino/Images/blob/main/Miro%20video.jpg?raw=true" alt="Imagen con diagrama que intenta explicar muy brevemente la lógica de un loop" width="480" height="480">
