@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/MauroDino/Images/blob/main/Pr%C3%A1ctica%203/P3%20Ej5.jpg?raw=true" alt="Diagrama ejercicio 5, práctica 3" width="900" height="900">
+<img src="https://github.com/MauroDino/Images/blob/main/Pr%C3%A1ctica%204/Pr%C3%A1ctica%204%20P1,%20ejercicio%2012.jpg?raw=true" alt="Diagrama ejercicio 12, práctica 4, parte 1" width="900" height="900">
 </p>
 
 ```
