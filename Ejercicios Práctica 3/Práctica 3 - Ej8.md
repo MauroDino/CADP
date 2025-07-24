@@ -36,6 +36,22 @@ type
         localidad: string;
     end;
 
+procedure maximos (p.nombreEscue: string; p.cantAlu: integer; var maxAlu1: integer; var maxAlu2: integer; var nombMax1: string; var nombMax2: string);
+    begin
+        if (p.cantAlu > maxAlu1) then begin
+            maxAlu2 := maxAlu1;
+            nombMax2 := nombMax1;
+            maxAlu1 := p.cantAlu;
+            nombMax1 := p.nombreEscue;
+        end
+            else
+        if (p.cantAlu > maxAlu2) then begin
+            maxAlu2 := p.cantAlu;
+            nombMax2 := p.nombreEscue;
+        end;
+    end;
+    end;
+
 function impar (num: integer): integer;
     var
         esImpar: integer;
@@ -96,12 +112,17 @@ var
     cantEscue: integer;
     locaActual: string;
     cantEscueLoca: integer;
+    maxAlu1: integer;
+    maxAlu2: integer;
+    nombMax1: string;
+    nombMax2: string;
 
 begin
     cantEscue := 0;
     locaActual := ' ';
     cantEscueLoca := 0;
-    
+    maxAlu1 := - 1;
+    maxAlu2 := - 1;
 
     leerProyecto (p);
     while (p.codigo <> -1) do begin
@@ -113,7 +134,7 @@ begin
             
             if (par(p.codigo) = impar(p.codigo)) then
                 writeln ('Título de los proyectos de la localidad de Daireaux con igual cantidad de dígitos pares e impares: ', p.titulo);
-            maximos (
+            maximos (p.nombreEscue, p.cantAlu, maxAlu1, maxAlu2, nombMax1, nombMax2)
         end;
         writeln ('De ', locaActual, ' se anotaron ', cantEscueLoca, ' escuelas.');
         leerProyecto (p);
