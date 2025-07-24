@@ -114,6 +114,10 @@ begin
             if (par(p.codigo) = impar(p.codigo)) then
                 writeln ('Título de los proyectos de la localidad de Daireaux con igual cantidad de dígitos pares e impares: ', p.titulo);
         end;
+        writeln ('De ', locaActual, ' se anotaron ', cantEscueLoca, ' escuelas.');
         leerProyecto (p);
     end;
+    writeln ('La cantidad de escuelas que participaron de la convocatoria es: ', cantEscue);
 end.
+
+● Nombres de las dos escuelas con mayor cantidad de alumnos participantes.
