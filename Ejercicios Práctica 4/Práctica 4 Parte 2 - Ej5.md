@@ -29,7 +29,7 @@ type
 
     anioMes = 1 .. 12;
 
-    monot = A .. F;
+    monot = 'A' .. 'F';
 
     Fecha = record
         dia: 1..31;
@@ -50,11 +50,6 @@ type
     vectorClientes = array [1 .. dimF] of clientes;
 
     vectorMono = array [monot] of integer; // para llevar la cuenta de las categorías de monotributos
-
-//a. Cantidad de contratos por cada mes y cada año, y año en que se firmó la mayor cantidad de contratos
-//b. Cantidad de clientes para cada categoría de monotributo
-//c. Código de las 10 ciudades con mayor cantidad de clientes
-//d. Cantidad de clientes que superan mensualmente el monto promedio entre todos los clientes.
 
 procedure codigo10Maximos (cClien: vectorClientes; vCiu: vectorCiudades);
     var
@@ -97,6 +92,7 @@ procedure recorrerVector (cClien: vectorClientes; var vCiu: vectorCiudades; var 
         maximoContrato: integer;
         cantMontos: real;
         supera: integer;
+        promedio: real;
 
     begin
         i := 1;
@@ -104,6 +100,7 @@ procedure recorrerVector (cClien: vectorClientes; var vCiu: vectorCiudades; var 
         maximoContrato := -1;
         cantMontos := 0;
         supera := 0;
+        promedio := 0;
 
         while (i < dimF) do begin
             anioActual := cClien[i].fecha.anio;
@@ -169,7 +166,7 @@ procedure leerCliente (var c: clientes);
         readln (c.categoria);
         writeln ('Ingresar el código (entre 1 y 2400) de la ciudad de las oficinas: ');
         readln (c.codigo);
-        witeln ('Ingresar el monto acordado en el contrato: ');
+        writeln ('Ingresar el monto acordado en el contrato: ');
         readln (c.monto);
     end;
 
