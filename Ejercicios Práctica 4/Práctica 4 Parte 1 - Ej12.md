@@ -96,7 +96,7 @@ procedure maximos (g: grupo; var masaMax1: string; var masaMax2: string);
         max2 := -1;
         for i := 1 to galas do begin
             if (g[i].masa > max1) then begin
-                masaMax2 := masaMAx1;
+                masaMax2 := masaMax1;
                 masaMax1 := g[i].nombre;
                 max1 := g[i].masa;
             end else
