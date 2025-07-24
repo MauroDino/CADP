@@ -137,7 +137,6 @@ begin
     
     mtotArg := 0;
     totHsAdmin := 0;
-    montos := 0;
     minimo := 0;
     
     leerProgramador (p);
