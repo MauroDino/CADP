@@ -29,7 +29,7 @@ type
 
     tipos = array [rango] of integer;
     
-        galaxia = record
+    galaxia = record
         nombre: string;
         tipo: rango;
         masa: integer;
@@ -57,10 +57,9 @@ procedure informar (g: grupo; tipis: tipos; cantTotMasa: integer; cantGala: Inte
         
     end;
 
-
-function sacarPromedio (cantGalas: integer; cantTotMasa: integer): real;
+function sacarPromedio (masaGlobal: integer; cantTotMasa: integer): real;
     begin
-        sacarPromedio := (cantTotMasa/cantGalas) * 100;
+        sacarPromedio := (cantTotMasa * 100) / masaGlobal;
     end;
 
 procedure minimos (g: grupo; var masaMin1: string; var masaMin2: string);
@@ -123,10 +122,12 @@ procedure analizar (g: grupo; var tipis: tipos; var cantTotMasa: integer; var ca
     var
         i: integer;
         cantGalas: integer;
+        masaGlobal: integer;
 
     begin
         inicializartipos (tipis);
         cantGalas := 0;
+        masaGlobal := 0;
         
         for i := 1 to galas do begin
             if (g[i].nombre = 'via lactea') or (g[i].nombre = 'andromeda') or (g[i].nombre = 'triangulo') then
@@ -138,16 +139,14 @@ procedure analizar (g: grupo; var tipis: tipos; var cantTotMasa: integer; var ca
             cantGala := cantGala + 1;
             
             tipis[g[i].tipo] := tipis[g[i].tipo] + 1;
+
+            masaGlobal := g[i].masa + masaGlobal;
         end;
         maximos (g, masaMax1, masaMax2);
         minimos (g, masaMin1, masaMin2);
-        promedio := sacarPromedio (cantGalas, cantTotMasa);
-        
-        
-        
+        promedio := sacarPromedio (masaGlobal, cantTotMasa);      
     end;
     
-
 procedure inicializar (var cantTotMasa: integer; var cantGala: integer; var masaMax1: string; var masaMax2: string; var masaMin1: string;
     var masaMin2: string; var promedio: real);
 
@@ -161,7 +160,6 @@ procedure inicializar (var cantTotMasa: integer; var cantGala: integer; var masa
         promedio := 0;
     end;
 
-
 procedure cargar (var gal: galaxia);
     begin
         writeln ('Ingresar nombre de la galaxia: ');
@@ -174,7 +172,6 @@ procedure cargar (var gal: galaxia);
         readln (gal.distancia);
     end;
 
-
 procedure leer (var g: grupo);
     var
         i: integer;
@@ -186,7 +183,6 @@ procedure leer (var g: grupo);
             g[i] := gal;
         end;
     end;
-
 
 var
     g: grupo;
