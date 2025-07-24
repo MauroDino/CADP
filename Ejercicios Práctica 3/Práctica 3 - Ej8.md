@@ -142,5 +142,3 @@ begin
     writeln ('La cantidad de escuelas que participaron de la convocatoria es: ', cantEscue);
     writeln ('Las dos escuelas con mayor cantidad de alumnos participantes son ', nombMax1, ' y ', nombMax2); 
 end.
-
-● Nombres de las dos escuelas con mayor cantidad de alumnos participantes.
