@@ -38,17 +38,17 @@ type
 
 function impar (num: integer): integer;
     var
-        espar: integer;
+        esImpar: integer;
         digito: integer;
     begin
         espar := 0;
         while (num <> 0) do begin
             digito := num mod 10;
             if (digito mod 2 = 0) then
-                espar := espar +1;
+                esImpar := esImpar +1;
             num := num div 10;
         end;
-        impar := espar;
+        impar := esImpar;
     end;
     
 function par (num: integer): integer;
@@ -113,11 +113,13 @@ begin
             
             if (par(p.codigo) = impar(p.codigo)) then
                 writeln ('Título de los proyectos de la localidad de Daireaux con igual cantidad de dígitos pares e impares: ', p.titulo);
+            maximos (
         end;
         writeln ('De ', locaActual, ' se anotaron ', cantEscueLoca, ' escuelas.');
         leerProyecto (p);
     end;
     writeln ('La cantidad de escuelas que participaron de la convocatoria es: ', cantEscue);
+    writeln ('Las dos escuelas con mayor cantidad de alumnos participantes son ', nombMax1, ' y ', nombMax2); 
 end.
 
 ● Nombres de las dos escuelas con mayor cantidad de alumnos participantes.
