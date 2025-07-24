@@ -30,9 +30,6 @@ type
 
     arregloDia = array [marzo] of integer;
 
-{c. Realizar un módulo que reciba el vector generado en a) 
-y elimine todos los viajes cuya distancia
-recorrida sea igual a 100 km.}
 procedure eliminarViajes (var vi: arregloViajes; var dimL: integer);
     var
         i: integer;
@@ -51,11 +48,6 @@ procedure eliminarViajes (var vi: arregloViajes; var dimL: integer);
         dimL := j - 1;
     end;
 
-
-{b. Realizar un módulo que reciba el vector generado en a) e informe:
-- El monto promedio transportado de los viajes realizados
-- La distancia recorrida y el día del mes en que se realizó el viaje que transportó menos dinero.
-- La cantidad de viajes realizados cada día del mes.}
 procedure inicializarArregloDia (var ad: arregloDia);
     var
         i: integer;
@@ -96,29 +88,29 @@ procedure informarAlgo (vi: arregloViajes; dimL: integer);
             
         end;
 
-        writeln ('El monto promedio transportado de los viajes realizados es: ', (montoTotViaj/dimL)0:2);
+        writeln ('El monto promedio transportado de los viajes realizados es: ', (montoTotViaj/dimL):0:2);
         writeln ('El monto $', montoMin, ' es el menor y fue transportado el día ', diaMin, ' por una distancia igual a: ', distanciaMin);
         for i := 1 to 31 do begin
             writeln ('El día ', i, ' del mes, se realizaron', ad[i], ' viajes');
         end;
     end;
 
-//a. Realizar un programa que lea y almacene la información de los viajes (a lo sumo 200). La lectura finaliza
-// cuando se ingresa una distancia recorrida igual a 0 km, que no debe procesarse.
 procedure cargarViajes (var vi: arregloViajes; var dimL: integer);
     var
-        v: viajes;
+        v: viaje;
 
     begin
         writeln ('Ingresar la distancia recorrida: ');
         readln (v.distancia);
-        while (v.distancia <> 0) and (dimL <= dimF) do begin
+        while (v.distancia <> 0) and (dimL < dimF) do begin
             writeln ('Ingresar el día en que se realiza el viaje: ');
             readln (v.dia);
             writeln ('Ingresar el monto de dinero transportado: ');
             readln (v.monto);
             dimL := dimL + 1;
             vi[dimL] := v;
+            writeln ('Ingresar la distancia recorrida: ');
+            readln (v.distancia);
         end;
     end;
 
