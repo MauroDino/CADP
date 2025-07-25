@@ -1,6 +1,4 @@
-<p align="center">
-<a href="https://github.com/MauroDino/CADP">
-<img src="https://github.com/MauroDino/Images/blob/main/Empecemos.jpg?raw=true" alt="Empecemos por acá" width="2000" height="400">
+<p align="center"><a href="https://github.com/MauroDino/CADP"><img src="https://github.com/MauroDino/Images/blob/main/Empecemos.jpg?raw=true" alt="Empecemos por acá" width="2000" height="400">
 </a>
 </p>
 
