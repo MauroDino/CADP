@@ -88,9 +88,6 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 
 - [Práctica 7, ejercicio 3](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej3.md)
 
-- [Práctica 7, ejercicio 7](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej7.md)
-
-
 Si te gustó esto, una forma de agradecer es dándole a la :star:
 
 Si creés que le falta algo, o debería cambiar una cosa, no dudes en contactarme
