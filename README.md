@@ -91,5 +91,6 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 Si te gustó esto, una forma de agradecer es dándole a la :star:
 
 Si creés que le falta algo, o debería cambiar una cosa, pongámonos en contacto.
-mail: dinotomauro@gmail.com
+
+dinotomauro@gmail.com
 
