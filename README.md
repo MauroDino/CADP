@@ -86,7 +86,7 @@ Dicho esto, empecemos, directamente con la prácita 3, porque acá es donde se e
 
 - [Práctica 7, ejercicio 3](https://github.com/MauroDino/CADP/blob/main/Ejercicios%20Pr%C3%A1ctica%207/Pr%C3%A1ctica%207%20-%20Ej3.md)
 
-  ### Te aliento a que intentes hacer tus propios diagramas para ayudarte en la elaboración de tu código. Yo uso [FigJam](https://www.figma.com/es-es/figjam/) de Figma. Si necesitás ayuda para usarlo, o para resolver algún ejercicio, no dudes en pedir ayuda.
+  ### Te aliento a que intentes hacer tus propios diagramas para ayudarte en la elaboración de tu código. Yo uso [FigJam](https://www.figma.com/es-es/figjam/) de Figma. Si necesitás una mano para usarlo, o para resolver algún ejercicio, no dudes en pedir ayuda.
 
 Si te gustó esto, una forma de agradecer es dándole a la :star:
 
