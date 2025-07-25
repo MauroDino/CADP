@@ -31,7 +31,7 @@ type
     lista = ^nodo;
 
     nodo = record
-        data: viaje;
+        dato: viaje;
         sig: lista;
     end;
 
@@ -44,9 +44,9 @@ procedure insertarOrdenado (v: viaje; var L2: lista);
     begin
         new (nuevo);
         nuevo^.dato := v;
-        anterior := L;
-        actual := L;
-        while (actual <> nil) and (v.numViaj > actual^.dato.numViaj) do begin
+        anterior := L2;
+        actual := L2;
+        while (actual <> nil) and (v.num > actual^.dato.num) do begin
             anterior := actual;
             actual := actual^.sig;
         end;
@@ -81,12 +81,14 @@ procedure recorrerLista (L: lista; var L2: lista);
         kmMax2: integer;
         codAutAct: integer;
         v: viaje;
+        totKmReco: integer;
     
     begin
         codMax1 := 0;
         codMax2 := 0;
-        kmMax1: -1;
-        kmMax2: -1;
+        kmMax1 := -1;
+        kmMax2 := -1;
+        totKmReco := 0;
         
         while (L <> nil) do begin
                 codAutoAct := L^.dato.codigo;
@@ -97,7 +99,7 @@ procedure recorrerLista (L: lista; var L2: lista);
                         insertarOrdenado (L^.dato, L2);
                     L := L^.sig;
                 end;
-                maximos (codMax1, codMax2, kmMax1, kmMax2, totoKmReco, L^.dato.codigo);
+                maximos (codMax1, codMax2, kmMax1, kmMax2, totKmReco, L^.dato.codigo);
         end;
         writeln ('Los dos códigos que hicieron más kilómetros son: ', codMax1, ' y ', codMax2);
     end;
